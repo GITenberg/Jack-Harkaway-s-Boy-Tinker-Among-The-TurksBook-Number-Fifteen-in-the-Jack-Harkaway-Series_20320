@@ -1,0 +1,31 @@
+_repo: Jack-Harkaway-s-Boy-Tinker-Among-The-TurksBook-Number-Fifteen-in-the-Jack-Harkaway-Series_20320
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hemyng, Bracebridge
+    alias: Bracebridge, Samuel
+    birthdate: 1841
+    deathdate: 1901
+    gutenberg_agent_id: '2425'
+    url: http://www.gutenberg.org/2009/agents/2425
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20320'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Turkey -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+title: 'Jack Harkaway''s Boy Tinker Among The Turks
+
+  Book Number Fifteen in the Jack Harkaway Series'
+url: http://www.gutenberg.org/ebooks/20320
